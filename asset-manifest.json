@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Essay-Word-Count-Writer/static/css/main.598b5a4c.chunk.css",
+    "main.js": "/Essay-Word-Count-Writer/static/js/main.42243171.chunk.js",
+    "main.js.map": "/Essay-Word-Count-Writer/static/js/main.42243171.chunk.js.map",
+    "runtime-main.js": "/Essay-Word-Count-Writer/static/js/runtime-main.db432400.js",
+    "runtime-main.js.map": "/Essay-Word-Count-Writer/static/js/runtime-main.db432400.js.map",
+    "static/js/2.417343f5.chunk.js": "/Essay-Word-Count-Writer/static/js/2.417343f5.chunk.js",
+    "static/js/2.417343f5.chunk.js.map": "/Essay-Word-Count-Writer/static/js/2.417343f5.chunk.js.map",
+    "static/js/3.5be255ad.chunk.js": "/Essay-Word-Count-Writer/static/js/3.5be255ad.chunk.js",
+    "static/js/3.5be255ad.chunk.js.map": "/Essay-Word-Count-Writer/static/js/3.5be255ad.chunk.js.map",
+    "index.html": "/Essay-Word-Count-Writer/index.html",
+    "static/css/main.598b5a4c.chunk.css.map": "/Essay-Word-Count-Writer/static/css/main.598b5a4c.chunk.css.map",
+    "static/js/2.417343f5.chunk.js.LICENSE.txt": "/Essay-Word-Count-Writer/static/js/2.417343f5.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Essay-Word-Count-Writer/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db432400.js",
+    "static/js/2.417343f5.chunk.js",
+    "static/css/main.598b5a4c.chunk.css",
+    "static/js/main.42243171.chunk.js"
+  ]
+}
