@@ -1,3 +1,9 @@
+# Essay Word Count Writer
+This project was part of a streamed series on twitch of creating simple and dumb coding projects - watch here twitch.tv/strychnos12
+This is the Essay word count writer program. Simply enter in a sentence to have to it (nearly) instantly expanded for higher word counts. Only works on nouns and adjectives
+This software is free to use and modify, have fun!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
