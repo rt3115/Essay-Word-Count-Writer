@@ -2,7 +2,8 @@
 This project was part of a streamed series on twitch of creating simple and dumb coding projects - watch here twitch.tv/strychnos12
 This is the Essay word count writer program. Simply enter in a sentence to have to it (nearly) instantly expanded for higher word counts. Only works on nouns and adjectives
 This software is free to use and modify, have fun!\
-If you want to just see the app without downllading it just vist the gh pages of this! https://rt3115.github.io/Essay-Word-Count-Writer/
+If you want to just see the app without downllading it just vist the gh pages of this! https://rt3115.github.io/Essay-Word-Count-Writer/ \
+Known Issue, if you use too long of sentences or have it look up works to frequently you may get blocked from the Dictionary Api I use for a few minutees
 
 
 # Getting Started with Create React App
